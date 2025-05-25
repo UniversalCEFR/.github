@@ -1,23 +1,6 @@
 # UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment
 
-UniversalCEFR is a largescale, multilingual, multidimensional dataset comprising of texts annotated according to the [CEFR (Common European Framework of Reference)](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions). The collection comprises of a total of **505,807 CEFR-labeled texts** annotated in **13 languages**:
-
- - English (en)
- - Spanish (es)
- - German (de)
- - Dutch (nl)
- - Czech (cs)
- - Italian (it)
- - French (fr)
- - Estonian (et)
- - Portuguese (pt)
- - Arabic (ar)
- - Hindi (hi)
- - Russian (ru)
- - Welsh (cy)
-
-To enable open research in both automated readability and language
-proficiency assessment, UniversalCEFR comprises curated from educational and learner-oriented resources, standardized into a unified data format to support consistent processing, analysis, and modeling across tasks and languages.
+UniversalCEFR is an initiative to compile and index open, publicly accessible datasets based on the [CEFR Framework (Common European Framework of Reference)](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions) to enable open research language proficiency assessment. Datasets indexed in UniversalCEFR are standardized into a unified data format to support consistent processing, analysis, and modeling across tasks and languages.
 
 ## :computer: Accessing UniversalCEFR 
 
