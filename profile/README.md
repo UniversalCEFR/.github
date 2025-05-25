@@ -21,7 +21,7 @@ proficiency assessment, UniversalCEFR comprises curated from educational and lea
 
 ## Accessing UniversalCEFR 
 
-The full informative data directory is listed in this repo: [`universalcefr-data-directory`](https://github.com/UniversalCEFR/universalcefr-data-directory).
+The full informative data directory is listed in this repo: [universalcefr-data-directory](https://github.com/UniversalCEFR/universalcefr-data-directory)
 
 If you're interested in a specific individual or group of datasets from UniversalCEFR, you may access or download their transformed, standardised version through the UniversalCEFR Huggingface Org: https://huggingface.co/UniversalCEFR
 
