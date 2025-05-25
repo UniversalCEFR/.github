@@ -19,25 +19,13 @@ UniversalCEFR is a largescale, multilingual, multidimensional dataset comprising
 To enable open research in both automated readability and language
 proficiency assessment, UniversalCEFR comprises curated from educational and learner-oriented resources, standardized into a unified data format to support consistent processing, analysis, and modeling across tasks and languages.
 
-## UniversalCEFR Data Format / Schema
-To ensure interoperability, transformation, and machine readability, adopted **standardised JSON format** for each CEFR-labeled text. These fields include the source dataset, language, granularity (document, paragraph, sentence, discourse), production category (learner or reference), and license.
-
-| **Field**         | **Description**                                                                                                                                                                                                                                                                                       |
-|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `title`           | The unique title of the text retrieved from its original corpus (`NA` if there are no titles such as CEFR-assessed sentences or paragraphs).                                                                                                                                                         |
-| `lang`            | The source language of the text in ISO 638-1 format (e.g., `en` for English).                                                                                                                                                                                                                         |
-| `source_name`     | The source dataset name where the text is collected as indicated from their source dataset, paper, and/or documentation (e.g., `cambridge-exams` from Xia et al., 2016).                                                                                                                             |
-| `format`          | The format of the text in terms of level of granularity as indicated from their source dataset, paper, and/or documentation. The recognized formats are the following: [`document-level`, `paragraph-level`, `discourse-level`, `sentence-level`].                                                   |
-| `category`        | The classification of the text in terms of who created the material. The recognized categories are `reference` for texts created by experts, teachers, and language learning professionals and `learner` for texts written by language learners and students.                                         |
-| `cefr_level`      | The CEFR level associated with the text. The six recognized CEFR levels are the following: [`A1`, `A2`, `B1`, `B2`, `C1`, `C2`]. A small fraction (<1%) of text in UniversalCEFR contains unlabelled text, texts with plus signs (e.g., `A1+`), and texts with no level indicator (e.g., `A`, `B`). |
-| `license`         | The licensing information associated with the text (e.g., `CC-BY-NC-SA` or `Unknown` if not stated).                                                                                                                                                                                                                         |
-| `text`            | The actual content of the text itself.  
-
 ## Accessing UniversalCEFR 
 
-If you're interested in a specific individual or group of datasets from UniversalCEFR, you may access their transformed, standardised version through the UniversalCEFR Huggingface Org: https://huggingface.co/UniversalCEFR
+The full informative data directory is listed in this repo: [`universalcefr-data-directory`](https://github.com/UniversalCEFR/universalcefr-data-directory).
 
-If you use any of the datasets indexed in UniversalCEFR, **please cite the original dataset papers** they are associated with. You can find them in the data directory above.
+If you're interested in a specific individual or group of datasets from UniversalCEFR, you may access or download their transformed, standardised version through the UniversalCEFR Huggingface Org: https://huggingface.co/UniversalCEFR
+
+If you use any datasets indexed in UniversalCEFR, **please cite the original dataset papers** they are associated with. You can find them in the data directory repo.
 
 Note that there are a few datasets in UniversalCEFR---`EFCAMDAT`, `APA-LHA`, and `DEPlain`---that are not directly available from the UniversalCEFR Huggingface Org as they require users to agree with their Terms of Use before using them for non-commercial research. Once you've done this, you can use the preprocessing Python scripts in `universal-cefr-experiments` repository to transform the raw version to UniversalCEFR version.
 
