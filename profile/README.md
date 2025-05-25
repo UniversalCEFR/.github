@@ -64,7 +64,7 @@ When we index your dataset to UniversalCEFR, we will cite you and the paper/proj
 ### Contact
 For questions, concerns, clarifications, and issues, please contact [Joseph Marvin Imperial](https://www.josephimperial.com/) (jmri20@bath.ac.uk).
 
-## Reference
+## :scroll: Reference
 Please use the following information when citing UniversalCEFR:
 
 To be updated.
