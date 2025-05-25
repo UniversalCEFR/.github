@@ -2,7 +2,7 @@
 
 UniversalCEFR is an initiative to compile and index open, publicly accessible datasets based on the [CEFR Framework (Common European Framework of Reference)](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions) to enable open research language proficiency assessment. Datasets indexed in UniversalCEFR are standardized into a unified data format to support consistent processing, analysis, and modeling across tasks and languages.
 
-## :computer: Accessing UniversalCEFR 
+## :closed_book: Accessing UniversalCEFR 
 
 The full informative data directory is listed in this repo: [universalcefr-data-directory](https://github.com/UniversalCEFR/universalcefr-data-directory)
 
