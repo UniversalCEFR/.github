@@ -19,7 +19,7 @@ UniversalCEFR is a largescale, multilingual, multidimensional dataset comprising
 To enable open research in both automated readability and language
 proficiency assessment, UniversalCEFR comprises curated from educational and learner-oriented resources, standardized into a unified data format to support consistent processing, analysis, and modeling across tasks and languages.
 
-## Accessing UniversalCEFR 
+## :computer: Accessing UniversalCEFR 
 
 The full informative data directory is listed in this repo: [universalcefr-data-directory](https://github.com/UniversalCEFR/universalcefr-data-directory)
 
@@ -29,7 +29,7 @@ If you use any datasets indexed in UniversalCEFR, **please cite the original dat
 
 Note that there are a few datasets in UniversalCEFR---`EFCAMDAT`, `APA-LHA`, and `DEPlain`---that are not directly available from the UniversalCEFR Huggingface Org as they require users to agree with their Terms of Use before using them for non-commercial research. Once you've done this, you can use the preprocessing Python scripts in `universal-cefr-experiments` repository to transform the raw version to UniversalCEFR version.
 
-## Join the UniversalCEFR Initiative
+## 🤝 Join the UniversalCEFR Initiative
 
 ### Initiators and Collaborators
 An initiative started as a collaboration between the researchers around the world who are interested in **1) building a more open and accessible language proficiency assessment data resources** that are also **2) standardised for maximized machine readability**.
