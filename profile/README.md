@@ -1,6 +1,8 @@
 # UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment
 
-UniversalCEFR is an initiative to compile and index open, publicly accessible datasets based on the [CEFR Framework (Common European Framework of Reference)](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions) to enable open research language proficiency assessment. Datasets indexed in UniversalCEFR are standardized into a unified data format to support consistent processing, analysis, and modeling across tasks and languages.
+UniversalCEFR is an initiative to compile and index open, publicly accessible datasets based on the [CEFR Framework (Common European Framework of Reference)](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions) to enable open research language proficiency assessment. Datasets indexed in UniversalCEFR are standardized into a unified data format to support consistent processing, analysis, and modeling across tasks and languages. 
+
+The full paper is uploaded on Arxiv: https://arxiv.org/abs/2506.01419
 
 ## :closed_book: Accessing UniversalCEFR 
 
