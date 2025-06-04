@@ -50,9 +50,10 @@ For questions, concerns, clarifications, and issues, please contact [Joseph Marv
 ## :scroll: Reference
 Please use the following information when citing UniversalCEFR:
 
+BibTex Format:
 ```
 @article{imperial2025universalcefr,
-  title = {UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment},
+  title = {{UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment}},
   author = {Joseph Marvin Imperial and Abdullah Barayan and Regina Stodden and Rodrigo Wilkens 
     and Ricardo Muñoz Sánchez and Lingyun Gao and Melissa Torgbi and Dawn Knight and Gail Forey 
     and Reka R. Jablonkai and Ekaterina Kochmar and Robert Reynolds and Eugénio Ribeiro and 
@@ -63,6 +64,11 @@ Please use the following information when citing UniversalCEFR:
   url = {https://arxiv.org/abs/2506.01419}
 ```
 
+APA Format:
+
+```
+Imperial, J. M., Barayan, A., Stodden, R., Wilkens, R., Muñoz Sánchez, R., Gao, L., Torgbi, M., Knight, D., Forey, G., Jablonkai, R. R., Kochmar, E., Reynolds, R., Ribeiro, E., Saggion, H., Volodina, E., Vajjala, S., François, T., Alva-Manchego, F., & Tayyar Madabushi, H. (2025). UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment. arXiv. https://arxiv.org/abs/2506.01419
+```
 
 
 
