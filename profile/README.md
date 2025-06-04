@@ -50,7 +50,18 @@ For questions, concerns, clarifications, and issues, please contact [Joseph Marv
 ## :scroll: Reference
 Please use the following information when citing UniversalCEFR:
 
-To be updated.
+```
+@article{imperial2025universalcefr,
+  title = {UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment},
+  author = {Joseph Marvin Imperial and Abdullah Barayan and Regina Stodden and Rodrigo Wilkens 
+    and Ricardo Muñoz Sánchez and Lingyun Gao and Melissa Torgbi and Dawn Knight and Gail Forey 
+    and Reka R. Jablonkai and Ekaterina Kochmar and Robert Reynolds and Eugénio Ribeiro and 
+    Horacio Saggion and Elena Volodina and Sowmya Vajjala and Thomas François and 
+    Fernando Alva-Manchego and Harish Tayyar Madabushi},
+  journal = {arXiv preprint arXiv:2506.01419},
+  year = {2025},
+  url = {https://arxiv.org/abs/2506.01419}
+```
 
 
 
