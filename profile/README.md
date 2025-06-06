@@ -63,7 +63,7 @@ BibTex Format:
     Fernando Alva-Manchego and Harish Tayyar Madabushi},
   journal = {arXiv preprint arXiv:2506.01419},
   year = {2025},
-  url = {https://arxiv.org/abs/2506.01419}
+  url = {https://arxiv.org/abs/2506.01419}}
 ```
 
 APA Format:
